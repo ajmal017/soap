@@ -1,0 +1,30 @@
+.limit_field_display
+{
+    display:block;
+}
+.limit_field_hide
+{
+    display:none;
+}
+#coin_market_api_limit
+{
+    margin-top:10px;
+}
+.is_all
+{
+   margin-bottom:5px; 
+}
+
+
+// Forecast Manager CSS
+.forecast_text
+{
+   margin-left: 15em !important;
+   margin-right: 8em !important;
+}
+
+
+.quick-edit-coin span.title
+{
+   width: 20em !important;
+}
