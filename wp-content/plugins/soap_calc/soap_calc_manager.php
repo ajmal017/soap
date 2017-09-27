@@ -136,4 +136,3 @@ $alloils = $soap_calc_api->getSoapData("admin", $s);
     <div id="ajax-response"></div>
     <br class="clear">
 </div>
-  </div>
